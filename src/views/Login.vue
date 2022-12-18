@@ -37,7 +37,6 @@
 </template>
 <script>
 import { postFormAPI, getListAPIv2, postListAPIv2 } from "../api";
-import gt from "../utils/gt";
 export default {
   name: "Room",
   components: {},
